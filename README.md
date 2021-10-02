@@ -1,16 +1,20 @@
-### Hi there 👋
+## hi
 
-<!--
-**lutet88/lutet88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i'm **jeff**, also known as **lutet88** or previously **xhex88**
 
-Here are some ideas to get you started:
+## who
+**Student** at [Singapore American School](https://sas.edu.sg) '23
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**MATE Captain and EE/CS Mentor** of [SAS One Degree North Robotics](https://github.com/One-Degree-North)
+
+**Developer** of random pieces of hardware and software whenever I feel like it
+
+## what
+* **Python, C, D, Java**
+* embedded systems
+* AI/ML
+* game engines
+* random projects
+
+## where
+[lutetindustries.com](https://lutetindustries.com)
