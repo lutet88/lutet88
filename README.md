@@ -3,7 +3,7 @@
 i'm **jeff**, also known as **lutet88** or previously **xhex88**
 
 ## who
-**Student** at [Singapore American School](https://sas.edu.sg) '23
+**High School Student** at [Singapore American School](https://www.sas.edu.sg) '23
 
 **MATE Captain and EE/CS Mentor** of [SAS One Degree North Robotics](https://github.com/One-Degree-North)
 
