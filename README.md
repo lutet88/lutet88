@@ -3,7 +3,7 @@
 i'm **jeff**, also known as **lutet**, **lutet88** or previously **xhex88**
 
 ## who
-**Computer Engineering Undergrad** at [the University of Illinois, Urbana-Champaign](https://illinois.edu/) '27
+**Computer Engineering Undergrad** at [University of Illinois, Urbana-Champaign](https://illinois.edu/) '27
 
 **High School Student** at [Singapore American School](https://www.sas.edu.sg) '23
 
